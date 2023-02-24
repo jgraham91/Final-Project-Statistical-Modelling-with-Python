@@ -1,7 +1,9 @@
 # Final-Project-Statistical-Modelling-with-Python
 
 ## Project/Goals
-(fill in your description and goals here)
+My goal is to find all the bike sharing data for Vanocuver.  Do people actually use these bike share programs?   The bike cache was always full when I biked by and I think the majority of biking vancouverites have their own bikes.
+
+
 
 ## Process
 ### (your step 1)
